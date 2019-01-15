@@ -1,0 +1,11 @@
+logs
+*.log
+npm-debug.log*
+.DS_STORE
+src/vendor
+node_modules
+dev
+dist
+npm-debug.log
+.project
+.idea
